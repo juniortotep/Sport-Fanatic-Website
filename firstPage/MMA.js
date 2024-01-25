@@ -1,4 +1,5 @@
 $(document).ready(async function() {
+
     const API_KEY = "w9pxw25ns8rm9waq8ecb4gnf";
     const API_KEY_TWO = "3g2et8uynyeu8sdufrbatnbq";
     const RANKINGS_ENDPOINT = `http://localhost:3000/rankings`;
