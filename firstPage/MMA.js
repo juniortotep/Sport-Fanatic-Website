@@ -1,16 +1,5 @@
 $(document).ready(async function() {
-    // var fakeArticle = [
-    //     {
-    //         id: 1,
-    //         title: "John Smith beats up Joe Blow",
-    //         description: "lorem ipsum dolor sit amet",
-    //     },
-    //     {
-    //         id: 2,
-    //         title: "John Walter beats up Joe Blow",
-    //         description: "lorem ipsum dolor sit amet",
-    //     }
-    // ];
+
     const API_KEY = "w9pxw25ns8rm9waq8ecb4gnf";
     const API_KEY_TWO = "3g2et8uynyeu8sdufrbatnbq";
     const RANKINGS_ENDPOINT = `http://localhost:3000/rankings`;
